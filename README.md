@@ -280,3 +280,26 @@ Halaman `WatchlistActivity` menampilkan daftar koin yang ada di watchlist penggu
 4.  **Tampilkan di RecyclerView**: Data terbaru dari API kemudian ditampilkan menggunakan `CoinAdapter` yang sama dengan halaman utama.
 
 Semua kodenya ada di dalam `WatchlistActivity.java`.
+
+## Screenshot Halaman Aplikasi
+
+### Halaman Utama (List Data)
+![MainPage](./documentation/image/MainPage.png)
+
+### Halaman Utama (List Data dengan Pencarian)
+![MainPage](./documentation/image/MainPage_Search.png)
+
+### Halaman Detail Crypto
+![MainPage](./documentation/image/DetailPage.png)
+
+### Halaman Detail Crypto (Tambah Watchlist)
+![MainPage](./documentation/image/DetailPage_AddWatchlist.png)
+
+### Halaman Detail Crypto (Hapus Watchlist)
+![MainPage](./documentation/image/DetailPage_RemoveWatchlist.png)
+
+### Halaman Watchlist (Tanpa Data)
+![MainPage](./documentation/image/Watchlist_Empty.png)
+
+### Halaman Watchlist (Dengan Data)
+![MainPage](./documentation/image/Watchlist_Exist.png)
