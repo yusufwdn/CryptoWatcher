@@ -12,13 +12,9 @@ public final class WatchlistContract {
     // Mengimplementasikan BaseColumn agar otomatis tabel memiliki kolom _ID
     public static class WatchlistEntry implements BaseColumns {
         public static final String TABLE_NAME = "watchlist";
-
         public static final String COLUMN_NAME_COIN_ID = "coin_id";
-
         public static final String COLUMN_NAME_COIN_NAME = "coin_name";
-
         public static final String COLUMN_NAME_COIN_SYMBOL = "coin_symbol";
-
         public static final String COLUMN_NAME_IMAGE_URL = "image_url";
     }
 }
